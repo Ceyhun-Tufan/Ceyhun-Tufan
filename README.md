@@ -5,8 +5,9 @@
 </p>
 
 ## 🧑‍💼 Hakkımda
+Ben Ceyhun, İnönü Üniversitesi Bilgisayar Mühendisiliği 1. sınıf öğrencisiyim. 2021 yılından beri yazılım ile ilgileniyorum.
 
-Ben Ceyhun, 2021 yılından beri kendi kendini geliştiren bir yazılımcı olarak freelance ve robotik ile ilgileniyorum.
+![](https://komarev.com/ghpvc/?username=Ceyhun-Tufan)
 
 ## 💡 İlgi Alanlarım
 
@@ -14,15 +15,15 @@ Ben Ceyhun, 2021 yılından beri kendi kendini geliştiren bir yazılımcı olar
 - Veri analizi ![](https://img.shields.io/badge/-Python-black?logo=python&style=plastic)
 - Otomasyon ![](https://img.shields.io/badge/-Python-black?logo=python&style=plastic)
 - Mobil ![](https://img.shields.io/badge/-Javascript-black?logo=javascript&style=plastic)![](https://img.shields.io/badge/-React-black?logo=react&style=plastic)
+  
 ## 📫 İletişim
 
 - LinkedIn: https://www.linkedin.com/in/ceyhun-tf-b18601243/
-- GitHub: https://github.com/Kozmik-Kahve
+- GitHub: https://github.com/Ceyhun-Tufan
 - Telegram: @JeihunT
 - Discord: jeihun
   
 ## 🤝 İşbirliği ve Katkılar
-
 
 - Açık kaynak projeleriyle ilgileniyorum ve katkıda bulunmaktan mutluluk duyarım.
 - İşbirliği yapmak veya projelere katkıda bulunmak isterseniz, benimle iletişime geçmekten çekinmeyin.
