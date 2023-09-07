@@ -1,16 +1,32 @@
-### Hi there 👋
+<h1 align="center">Merhaba, Ben Ceyhun! 👋</h1>
+<p align="center">
+    <a href="https://www.linkedin.com/in/ceyhun-tf-b18601243/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+    <a href="https://github.com/Kozmik-Kahve"><img src="https://img.shields.io/badge/-GitHub-%23181717?style=flat&logo=github&logoColor=white" alt="GitHub"></a>
+</p>
 
-<!--
-**Ceyhun-Tufan/Ceyhun-Tufan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧑‍💼 Hakkımda
 
-Here are some ideas to get you started:
+Ben Ceyhun, 2021 yılından beri kendi kendini geliştiren bir yazılımcı olarak freelance ve robotik ile ilgileniyorum.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 İlgi Alanlarım
+
+- Robotik programlama ![](https://img.shields.io/badge/-C++-black?logo=cplusplus&style=plastic)![](https://img.shields.io/badge/-Arduino-black?logo=arduino&style=plastic)
+- Veri analizi ![](https://img.shields.io/badge/-Python-black?logo=python&style=plastic)
+- Otomasyon ![](https://img.shields.io/badge/-Python-black?logo=python&style=plastic)
+- Mobil ![](https://img.shields.io/badge/-Javascript-black?logo=javascript&style=plastic)![](https://img.shields.io/badge/-React-black?logo=react&style=plastic)
+## 📫 İletişim
+
+- LinkedIn: https://www.linkedin.com/in/ceyhun-tf-b18601243/
+- GitHub: https://github.com/Kozmik-Kahve
+- Telegram: @JeihunT
+- Discord: jeihun
+  
+## 🤝 İşbirliği ve Katkılar
+
+
+- Açık kaynak projeleriyle ilgileniyorum ve katkıda bulunmaktan mutluluk duyarım.
+- İşbirliği yapmak veya projelere katkıda bulunmak isterseniz, benimle iletişime geçmekten çekinmeyin.
+
+## 👀 Projelerime Göz Atın
+
+Tüm projelerimi görmek ve daha fazla bilgi edinmek için <a href="https://github.com/Kozmik-Kahve">GitHub</a> profilime göz atabilirsiniz.
