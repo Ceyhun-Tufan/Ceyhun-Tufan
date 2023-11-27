@@ -12,7 +12,7 @@ Ben Ceyhun, İnönü Üniversitesi Bilgisayar Mühendisiliği 1. sınıf öğren
 ## 💡 İlgi Alanlarım
 
 - Robotik programlama ![](https://img.shields.io/badge/-C++-black?logo=cplusplus&style=plastic)![](https://img.shields.io/badge/-Arduino-black?logo=arduino&style=plastic)
-- Veri analizi ![](https://img.shields.io/badge/-Python-black?logo=python&style=plastic)
+- Back-End Geliştirme ![](https://img.shields.io/badge/-Python-black?logo=python&style=plastic)
 - Otomasyon ![](https://img.shields.io/badge/-Python-black?logo=python&style=plastic)
 - Mobil ![](https://img.shields.io/badge/-Javascript-black?logo=javascript&style=plastic)![](https://img.shields.io/badge/-React-black?logo=react&style=plastic)
   
