@@ -1,31 +1,26 @@
-<h1 align="center">Merhaba, Ben Ceyhun! 👋</h1>
+<h1 align="center">Hi, I'm Ceyhun! 👋</h1>
 <p align="center">
     <a href="https://www.linkedin.com/in/ceyhun-tufan/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-    <a href="https://github.com/Ceyhun-Tufan"><img src="https://img.shields.io/badge/-GitHub-%23181717?style=flat&logo=github&logoColor=white" alt="GitHub"></a>
 </p>
 
-## 🧑‍💼 Hakkımda
-Ben Ceyhun, İnönü Üniversitesi Bilgisayar Mühendisiliği 1. sınıf öğrencisiyim. 2021 yılından beri yazılım ile ilgileniyorum.
+## 🧑‍💻 About Me
+I'm Ceyhun, a Computer Engineering student at İnönü University. I’ve been passionate about software development since 2021.
 
 ![](https://komarev.com/ghpvc/?username=Ceyhun-Tufan)
 
-## 💡 İlgi Alanlarım
+## 💡 Interests
 
-- Robotik programlama ![](https://img.shields.io/badge/-C++-black?logo=cplusplus&style=plastic)![](https://img.shields.io/badge/-Arduino-black?logo=arduino&style=plastic)
-- Back-End Geliştirme ![](https://img.shields.io/badge/-Python-black?logo=python&style=plastic)![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic)![MySQL](https://img.shields.io/badge/SQL-%2300f.svg?style=plastic)
-- Otomasyon ![](https://img.shields.io/badge/-Python-black?logo=python&style=plastic)
+- Robotics Programming:      ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+- Back-End Development:     ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+- Automation:     ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+- Mobile Development:     ![](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+- Also:    ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
   
-## 📫 İletişim
+## 📫 Contact
 
-- LinkedIn: https://www.linkedin.com/in/ceyhun-tufan/
-- GitHub: https://github.com/Ceyhun-Tufan
-- Telegram: @JeihunT
-  
-## 🤝 İşbirliği ve Katkılar
+- LinkedIn: [Ceyhun Tufan](https://www.linkedin.com/in/ceyhun-tufan/)
+- Email: ceyhuntufanyazilim@gmail.com
 
-- Açık kaynak projeleriyle ilgileniyorum ve katkıda bulunmaktan mutluluk duyarım.
-- İşbirliği yapmak veya projelere katkıda bulunmak isterseniz, benimle iletişime geçmekten çekinmeyin.
+## 👀 Check Out My Projects
 
-## 👀 Projelerime Göz Atın
-
-Tüm projelerimi görmek ve daha fazla bilgi edinmek için <a href="https://github.com/Ceyhun-Tufan?tab=repositories">GitHub</a> profilime göz atabilirsiniz.
+You can explore all my projects on my [GitHub profile](https://github.com/Ceyhun-Tufan?tab=repositories).
